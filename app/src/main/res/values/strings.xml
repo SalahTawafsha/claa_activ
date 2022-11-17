@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">claa_activ</string>
+    <string name="userNameLabel">Name:</string>
+    <string name="request_name">Enter your Name</string>
+    <string name="switch1">I want to show world Cup</string>
+
+    <string-array name="department">
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+        <item>Other</item>
+    </string-array>
+</resources>
